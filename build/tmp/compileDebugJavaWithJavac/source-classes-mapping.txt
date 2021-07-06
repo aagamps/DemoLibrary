@@ -1,0 +1,2 @@
+com/android/demolibrary/BuildConfig.java
+ com.android.demolibrary.BuildConfig
